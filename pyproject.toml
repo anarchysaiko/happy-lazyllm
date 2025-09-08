@@ -1,0 +1,12 @@
+[project]
+name = "happy-lazyllm"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dashscope>=1.24.4",
+    "datasets>=4.0.0",
+    "lazyllm>=0.6.1",
+    "rapidfuzz>=3.14.0",
+]
